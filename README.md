@@ -3,6 +3,8 @@
 Senior Software Engineer based in Paris 🇫🇷  
 I design and build **robust backend systems**, with a strong focus on **clean architecture**, **scalability**, and **developer experience**.
 
+A good developer doesn’t make themselves indispensable. They make the team autonomous.
+
 ---
 
 ## 🚀 What I do
@@ -61,7 +63,7 @@ Hands-on experiments around hexagonal architecture, testing, and clean code prac
 - Long-term maintainability over short-term hacks
 - Sharing knowledge and improving developer workflows
 - Building systems that scale **technically and humanly**
-
+- Being replacable is a good 
 ---
 
 ## 📫 Get in touch
