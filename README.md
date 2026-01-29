@@ -42,16 +42,32 @@ A good developer doesn’t make themselves indispensable. They make the team aut
 
 ## 📌 Featured projects
 
-🔹 **FusionAI**  
-Unified API to interact with multiple LLM providers (OpenAI, Gemini, Mistral, Claude…) behind a single interface.  
-> Focus: abstraction, clean contracts, extensibility
+🔹 **UpKeep – Open-Source Fund Allocation Platform**  
+UpKeep helps companies sustainably fund the open-source maintainers they rely on, with a structured voting and allocation system based on actual usage and risk.
 
-🔹 **LLM Unified DTO**  
-Standardized data models to normalize responses across LLM providers.  
-> Focus: interoperability & maintainability
+- Bridges the gap between economic value and maintainer sustainability
+- Supports maintainers of critical open-source libraries through transparent funding
+- Enables companies to justify funding decisions with data-driven allocation
 
-🔹 **Architecture & Craft projects**  
-Hands-on experiments around hexagonal architecture, testing, and clean code practices.
+> Focus: open-source sustainability, funding models, responsible engineering
+
+🔹 **Serenia – Conversational AI Chat App**  
+Serenia is an AI-powered chat application designed to offer a natural, friendly, and sometimes sarcastic conversational experience.
+
+- Adopts the personality of a close friend rather than a formal assistant
+- Messages are short (max 180 characters), casual, and engaging
+- Focus on human-like interaction and realistic chat experience> Focus: interoperability & maintainability
+
+> Focus: AI, conversational UX, personality-driven design
+ 
+🔹 **EcoCode Challenge – Sustainable Coding Initiative**  
+A technical challenge promoting efficient and environmentally responsible code.
+
+- Optimized for performance and energy efficiency
+- Highlights the impact of technical choices on resource consumption
+- Encourages clean design with environmental awareness
+
+> Focus: green IT, efficiency, responsible engineering
 
 *(See pinned repositories below 👇)*
 
@@ -63,7 +79,6 @@ Hands-on experiments around hexagonal architecture, testing, and clean code prac
 - Long-term maintainability over short-term hacks
 - Sharing knowledge and improving developer workflows
 - Building systems that scale **technically and humanly**
-- Being replacable is a good 
 ---
 
 ## 📫 Get in touch
